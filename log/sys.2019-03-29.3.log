@@ -1,0 +1,14 @@
+2019-03-29 16:48:59,055 INFO (RedisConfig.java:45)- JedisPool注入成功！！
+2019-03-29 16:48:59,060 INFO (RedisConfig.java:46)- redis地址：localhost:6379
+2019-03-29 16:48:59,450 INFO (StartupInfoLogger.java:59)- Started Application in 3.088 seconds (JVM running for 4.116)
+2019-03-29 16:49:04,849 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:08,907 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:09,851 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:20,243 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:21,879 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:23,508 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:24,296 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:24,560 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:24,746 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:25,075 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:25,245 INFO (RedisTest.java:44)- 抢到了!

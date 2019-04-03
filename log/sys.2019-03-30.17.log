@@ -1,0 +1,12 @@
+2019-03-30 18:35:42,947 INFO (RedisConfig.java:45)- JedisPool注入成功！！
+2019-03-30 18:35:42,951 INFO (RedisConfig.java:46)- redis地址：localhost:6379
+2019-03-30 18:35:43,300 INFO (StartupInfoLogger.java:59)- Started Application in 2.942 seconds (JVM running for 4.003)
+2019-03-30 18:35:50,006 INFO (RedisCommon.java:45)- 获取锁成功9f1f87f8-ff6f-4ce6-8902-7f43f70aeb46
+2019-03-30 18:35:50,507 INFO (RedisTest.java:73)- 抢到了!
+2019-03-30 18:35:50,510 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-1,token:9f1f87f8-ff6f-4ce6-8902-7f43f70aeb46
+2019-03-30 18:35:50,512 INFO (RedisTest.java:81)- 解锁
+2019-03-30 18:35:51,807 INFO (RedisCommon.java:45)- 获取锁成功522bd755-8d2b-44a3-b82c-c25ae28035cc
+2019-03-30 18:35:52,309 INFO (RedisTest.java:73)- 抢到了!
+2019-03-30 18:35:52,315 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-2,token:522bd755-8d2b-44a3-b82c-c25ae28035cc
+2019-03-30 18:35:52,317 INFO (RedisTest.java:81)- 解锁
+2019-03-30 18:35:53,198 INFO (RedisCommon.java:45)- 获取锁成功6d553a45-d7a5-498e-9601-8c677e479e09

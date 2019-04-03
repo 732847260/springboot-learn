@@ -1,0 +1,16 @@
+2019-03-29 16:49:25,816 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:26,182 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:26,718 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:26,988 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:27,599 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:27,764 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:28,137 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:28,336 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:28,510 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:28,681 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:29,050 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:29,213 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:29,296 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:29,368 INFO (RedisTest.java:36)- 人太多，抢不到!
+2019-03-29 16:49:29,560 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:49:29,747 INFO (RedisTest.java:44)- 抢到了!

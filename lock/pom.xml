@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- Spring Boot 启动父依赖 -->
+    <parent>
+        <artifactId>springboot-learn</artifactId>
+        <groupId>com.fengniaoyun</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
+
+    <artifactId>lock</artifactId>
+    <dependencies>
+    <!-- Spring Boot Redis 依赖 1.4 + -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-redis</artifactId>
+        <version>1.4.7.RELEASE</version>
+    </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-to-slf4j</artifactId>
+            <version>2.11.2</version>
+        </dependency>
+        <!--
+			实体类使用@Data注解 不用再写setter、getter方法
+			类引入日志 使用@Slf4j注解
+			IDEA记得装lombok插件
+		-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
+
+    </dependencies>
+
+
+</project>

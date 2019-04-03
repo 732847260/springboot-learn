@@ -1,0 +1,9 @@
+2019-03-30 17:45:23,524 INFO (StartupInfoLogger.java:50)- Starting Application on USER-20150610QX with PID 5588 (started by Administrator in F:\桌面软件\电脑数据备份\springboot-learn)
+2019-03-30 17:45:23,548 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-30 17:45:23,558 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-03-30 17:45:25,577 INFO (RedisConfig.java:45)- JedisPool注入成功！！
+2019-03-30 17:45:25,578 INFO (RedisConfig.java:46)- redis地址：localhost:6379
+2019-03-30 17:45:25,934 INFO (StartupInfoLogger.java:59)- Started Application in 3.074 seconds (JVM running for 4.745)
+2019-03-30 17:46:01,977 INFO (StartupInfoLogger.java:50)- Starting Application on USER-20150610QX with PID 6156 (started by Administrator in F:\桌面软件\电脑数据备份\springboot-learn)
+2019-03-30 17:46:01,982 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-30 17:46:01,983 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default

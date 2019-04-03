@@ -1,0 +1,14 @@
+2019-03-29 17:19:04,641 INFO (RedisConfig.java:45)- JedisPool注入成功！！
+2019-03-29 17:19:04,646 INFO (RedisConfig.java:46)- redis地址：localhost:6379
+2019-03-29 17:19:05,028 INFO (StartupInfoLogger.java:59)- Started Application in 2.781 seconds (JVM running for 3.778)
+2019-03-29 17:19:08,645 INFO (RedisCommon.java:40)- 获取锁成功f53a8ab2-f049-4a48-95b3-e9ab679efac8
+2019-03-29 17:19:13,647 INFO (RedisTest.java:57)- 抢到了!
+2019-03-29 17:19:13,650 INFO (RedisCommon.java:68)- 释放锁...http-nio-8080-exec-1,token:f53a8ab2-f049-4a48-95b3-e9ab679efac8
+2019-03-29 17:19:13,651 INFO (RedisTest.java:62)- 解锁
+2019-03-29 17:19:17,967 INFO (RedisCommon.java:40)- 获取锁成功15c54abd-7ebf-45ee-9da5-0061d333bfe8
+2019-03-29 17:19:22,969 INFO (RedisTest.java:57)- 抢到了!
+2019-03-29 17:19:22,970 INFO (RedisCommon.java:68)- 释放锁...http-nio-8080-exec-2,token:15c54abd-7ebf-45ee-9da5-0061d333bfe8
+2019-03-29 17:19:22,970 INFO (RedisTest.java:62)- 解锁
+2019-03-29 17:20:53,411 INFO (StartupInfoLogger.java:50)- Starting Application on USER-20150610QX with PID 9424 (started by Administrator in F:\桌面软件\电脑数据备份\springboot-learn)
+2019-03-29 17:20:53,415 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-29 17:20:53,416 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default

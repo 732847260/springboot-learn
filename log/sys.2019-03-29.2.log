@@ -1,0 +1,13 @@
+2019-03-29 16:47:46,837 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:51,889 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:56,907 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:57,441 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:58,189 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:58,815 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:59,405 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:47:59,968 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:48:00,584 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:48:01,930 INFO (RedisTest.java:44)- 抢到了!
+2019-03-29 16:48:56,982 INFO (StartupInfoLogger.java:50)- Starting Application on USER-20150610QX with PID 9816 (started by Administrator in F:\桌面软件\电脑数据备份\springboot-learn)
+2019-03-29 16:48:56,987 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-29 16:48:56,988 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default

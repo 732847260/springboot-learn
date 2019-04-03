@@ -1,0 +1,12 @@
+2019-03-30 17:55:58,808 INFO (RedisKills.java:94)- 用户小米-54786释放锁...
+2019-03-30 17:55:58,817 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-1,token:小米-54786
+2019-03-30 17:55:58,817 INFO (RedisCommon.java:45)- 获取锁成功小米-77809
+2019-03-30 17:55:58,818 INFO (RedisKills.java:73)- 用户拿到锁
+2019-03-30 17:55:59,818 INFO (RedisKills.java:88)- 用户小米-77809抢单成功跳出...所剩库存：2
+2019-03-30 17:55:59,818 INFO (RedisKills.java:94)- 用户小米-77809释放锁...
+2019-03-30 17:55:59,818 INFO (RedisCommon.java:73)- 释放锁...ForkJoinPool.commonPool-worker-2,token:小米-77809
+2019-03-30 17:55:59,818 INFO (RedisCommon.java:45)- 获取锁成功小米-54787
+2019-03-30 17:55:59,819 INFO (RedisKills.java:73)- 用户拿到锁
+2019-03-30 17:56:00,820 INFO (RedisKills.java:88)- 用户小米-54787抢单成功跳出...所剩库存：1
+2019-03-30 17:56:00,821 INFO (RedisKills.java:94)- 用户小米-54787释放锁...
+2019-03-30 17:56:00,822 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-1,token:小米-54787

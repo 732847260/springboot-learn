@@ -1,0 +1,3 @@
+2019-03-31 17:09:09,940 INFO (RedisConfig.java:45)- JedisPool注入成功！！
+2019-03-31 17:09:09,944 INFO (RedisConfig.java:46)- redis地址：localhost:6379
+2019-03-31 17:09:10,299 INFO (StartupInfoLogger.java:59)- Started Application in 2.72 seconds (JVM running for 4.057)

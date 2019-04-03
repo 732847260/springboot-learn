@@ -1,0 +1,12 @@
+2019-03-30 19:37:56,046 INFO (RedisTest.java:73)- 抢到了!
+2019-03-30 19:37:56,094 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-1,token:ad3b6d81-da24-478f-b160-1dc788248f2f
+2019-03-30 19:37:56,096 INFO (RedisTest.java:80)- 解锁
+2019-03-30 19:38:10,318 INFO (RedisCommon.java:45)- 获取锁成功371a9dd9-d8e0-4082-9c11-0b58765164e8
+2019-03-30 19:38:10,654 INFO (RedisTest.java:55)- 人太多，抢不到!
+2019-03-30 19:38:10,819 INFO (RedisTest.java:73)- 抢到了!
+2019-03-30 19:38:10,820 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-5,token:371a9dd9-d8e0-4082-9c11-0b58765164e8
+2019-03-30 19:38:10,820 INFO (RedisTest.java:80)- 解锁
+2019-03-30 19:38:21,325 INFO (RedisCommon.java:45)- 获取锁成功5caa8ef6-4165-4abf-8443-5aee53f5b9bc
+2019-03-30 19:38:21,656 INFO (RedisTest.java:55)- 人太多，抢不到!
+2019-03-30 19:38:21,826 INFO (RedisTest.java:73)- 抢到了!
+2019-03-30 19:38:21,826 INFO (RedisCommon.java:73)- 释放锁...http-nio-8080-exec-2,token:5caa8ef6-4165-4abf-8443-5aee53f5b9bc

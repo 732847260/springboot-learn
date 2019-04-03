@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activitymq" />
+        <module name="easyPoi" />
+        <module name="lock" />
+        <module name="lockjedis" />
+        <module name="redis" />
+        <module name="springboot-mybatis-redis" />
+        <module name="springboot-redis-annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activitymq" target="1.8" />
+      <module name="easyPoi" target="1.8" />
+      <module name="lock" target="1.8" />
+      <module name="lockjedis" target="1.8" />
+      <module name="locks" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="springboot-learn" target="1.8" />
+      <module name="springboot-mybatis-redis" target="1.8" />
+      <module name="springboot-redis-annotation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activitymq" options="-parameters" />
+      <module name="easyPoi" options="-parameters" />
+      <module name="lock" options="-parameters" />
+      <module name="lockjedis" options="-parameters" />
+      <module name="locks" options="-parameters" />
+      <module name="redis" options="-parameters" />
+      <module name="springboot-learn" options="-parameters" />
+      <module name="springboot-mybatis-redis" options="-parameters" />
+      <module name="springboot-redis-annotation" options="-parameters" />
+    </option>
+  </component>
+</project>
