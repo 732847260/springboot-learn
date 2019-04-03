@@ -16,7 +16,13 @@ public class CityRestController {
     @Autowired
     private CityService cityService;
 
-
+    /*
+     * @Description
+     * @Author LiangZF
+     * @param id
+     * @Date 2019/4/3 9:31
+     * @return org.spring.springboot.domain.City
+     */
     @RequestMapping(value = "/api/city/{id}", method = RequestMethod.GET)
     public City findOneCity(@PathVariable("id") Long id) {
         return cityService.findCityById(id);
