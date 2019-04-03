@@ -5,24 +5,12 @@ import org.spring.springboot.service.CityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-
-/**
- *
- * Created by bysocket on 07/02/2017.
- */
 @RestController
 public class CityRestController {
 
     @Autowired
     private CityService cityService;
 
-    /*
-     * @Description
-     * @Author LiangZF   df
-     * @param id
-     * @Date 2019/4/3 9:31
-     * @return org.spring.springboot.domain.City
-     */
     @RequestMapping(value = "/api/city/{id}", method = RequestMethod.GET)
     public City findOneCity(@PathVariable("id") Long id) {
         return cityService.findCityById(id);
