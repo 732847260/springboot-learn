@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: hadoop
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+server:
+  port: 9000
+  tomcat:
+    uri-encoding: UTF-8
+
+
+hdfs:
+  path: hdfs://172.16.104.204:9000
+  username: hadoop
+
